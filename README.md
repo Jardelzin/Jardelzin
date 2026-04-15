@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jardel 👋💻
 
 ## Sobre mim | About me
-<u>pt-br</u> Estudante de **Engenharia de Software**, sou um entusiasta da tecnologia apaixonado por criar soluções funcionais e criativas. Atualmente, estou focado em aprimorar meus conhecimentos no ecossistema **.NET (C#)**, além de possuir experiência com **TypeScript** e **React**. Estou sempre em busca de novos desafios para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
+<u>pt-br</u> Estudante de Engenharia de Software, sou um entusiasta da tecnologia apaixonado por criar soluções funcionais e criativas. Atualmente, estou focado em aprimorar meus conhecimentos no ecossistema **.NET (C#)**, além de possuir experiência com **TypeScript** e **React**. Estou sempre em busca de novos desafios para expandir meus horizontes no universo da programação. Seja bem-vindo(a) ao meu GitHub!
 
 <u>en</u> **Software Engineering** student, I'm a tech enthusiast passionate about creating functional and creative solutions. I'm currently focusing on mastering **.NET (C#)**, with experience in **TypeScript** and **React**. Always in search of new challenges to expand my horizons in the programming universe. Welcome to my GitHub!
 
